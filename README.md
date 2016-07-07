@@ -34,5 +34,4 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:quickie_synth]]
     end
     ```
-KFqAYV>PJ[K3m9prBTqEdyc
-astridandmiyu-interna+123@inviqa.com
+    
